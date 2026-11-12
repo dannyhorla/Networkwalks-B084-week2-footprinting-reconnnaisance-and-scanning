@@ -1,4 +1,3 @@
-
 # PENETRATION TESTING REPORT
 ## Footprinting & Network Scanning Phases
 
@@ -170,40 +169,20 @@ Based on the observations, I recommend the following security improvements:
 
 ## 8. Evidence Collected
 
-Screenshots and supporting evidence from the practical exercises should be added to this repository.
+<img width="1362" height="688" alt="whois result screenshot1" src="https://github.com/user-attachments/assets/a9fcd3fa-ecf2-4eaf-8cdf-20dbe747621c" />
+<img width="1365" height="683" alt="whois screenshot2" src="https://github.com/user-attachments/assets/43a6c662-d091-47d6-8e21-b58a0d0cea57" />
+<img width="1360" height="676" alt="wafwoof screenshot" src="https://github.com/user-attachments/assets/030da680-fb80-4243-99ad-ef5b642d0813" />
+<img width="1364" height="683" alt="whatweb screenshot" src="https://github.com/user-attachments/assets/dff6c15b-4507-4960-ac49-32932ede5b1b" />
+<img width="1363" height="682" alt="dnsrecon screenshot1" src="https://github.com/user-attachments/assets/3c915e34-090f-4a10-be35-dd996b3debbd" />
+<img width="1366" height="677" alt="dnsrecon screenshot2" src="https://github.com/user-attachments/assets/9483c543-e6b2-4d2d-98a6-c90a1b96c21d" />
+<img width="1354" height="700" alt="nslookup screenshot" src="https://github.com/user-attachments/assets/64a6b3a0-842b-4bbd-86e8-3633eec9e8c6" />
+<img width="1366" height="722" alt="zenmap scan screenshot" src="https://github.com/user-attachments/assets/e50c3d3c-1ab7-4bbe-a6ba-65ad3054d9bb" />
+<img width="1363" height="694" alt="curl screenshot" src="https://github.com/user-attachments/assets/8fea81f2-4d64-435b-a6e9-76738df9b913" />
 
-Evidence includes:
+### ZENMAP TOPOLOGY PDF
+[Networkwalks zenmap scan.pdf](https://github.com/user-attachments/files/34769880/Networkwalks.zenmap.scan.pdf)
 
-- WHOIS lookup results
-- WhatWeb output
-- Nslookup results
-- Curl HTTP response headers
-- Wafw00f output
-- DNSRecon results
-- Windows IP configuration
-- Zenmap Ping Scan results
-- IP and MAC address information
-- Network topology PDF
 
-Suggested repository structure:
-
-```text
-Penetration-Testing-Report/
-│
-├── README.md
-│
-├── Evidence/
-│   ├── WHOIS/
-│   ├── WhatWeb/
-│   ├── Nslookup/
-│   ├── Curl/
-│   ├── Wafw00f/
-│   ├── DNSRecon/
-│   └── Zenmap/
-│
-└── Network-Topology/
-    └── topology.pdf
-```
 
 ## 9. Learning Outcomes
 
