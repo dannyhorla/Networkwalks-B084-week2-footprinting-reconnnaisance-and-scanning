@@ -180,7 +180,8 @@ Based on the observations, I recommend the following security improvements:
 <img width="1363" height="694" alt="curl screenshot" src="https://github.com/user-attachments/assets/8fea81f2-4d64-435b-a6e9-76738df9b913" />
 
 ### ZENMAP TOPOLOGY PDF
-[Networkwalks zenmap scan.pdf](https://github.com/user-attachments/files/34769880/Networkwalks.zenmap.scan.pdf)
+[Networkwalks zenmap topology.pdf](https://github.com/user-attachments/files/34770884/Networkwalks.zenmap.topology.pdf)
+
 
 
 
